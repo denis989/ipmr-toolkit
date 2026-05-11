@@ -6,7 +6,7 @@ summary: "Platform-by-country routing tree for tipline-bound responses. Maps eac
 # T7 – Tipline routing across platforms and countries
 
 !!! abstract "TL;DR"
- Use this tree when a verified case is ready to leave the verification workflow and reach the user who originally submitted it, or to enter a country tipline as a canonical claim for future reuse. The routing is platform-by-country: where the user is and which platform they used decides which tipline tool the response goes through. The tree names the country–platform combinations where no tipline exists.
+    Use this tree when a verified case is ready to leave the verification workflow and reach the user who originally submitted it, or to enter a country tipline as a canonical claim for future reuse. The routing is platform-by-country: where the user is and which platform they used decides which tipline tool the response goes through. The tree names the country–platform combinations where no tipline exists.
 
 ## When to use this tree
 

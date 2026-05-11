@@ -6,7 +6,7 @@ summary: "Twelve-node workflow for any modality when an original file carries pr
 # T4 – Provenance triage when content carries C2PA, Content Credentials, or watermark signals
 
 !!! abstract "TL;DR"
- Use this tree any time an image, video, or audio file you are working on carries C2PA / Content Credentials, a vendor-specific watermark such as [SynthID](../tool-cards/synthid-detector.md), or a creator-attestation manifest. The tree reads what the manifest claims, checks whether the chain is intact and whether the signing party is plausible, and returns a non-detector signal class that feeds back into [T1](t1-image-triage.md), [T2](t2-video-triage.md), or T3.
+    Use this tree any time an image, video, or audio file you are working on carries C2PA / Content Credentials, a vendor-specific watermark such as [SynthID](../tool-cards/synthid-detector.md), or a creator-attestation manifest. The tree reads what the manifest claims, checks whether the chain is intact and whether the signing party is plausible, and returns a non-detector signal class that feeds back into [T1](t1-image-triage.md), [T2](t2-video-triage.md), or T3.
 
 ## When to use this tree
 

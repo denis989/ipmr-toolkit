@@ -6,7 +6,7 @@ summary: "Aggregation of the ten safety-override classes that fire across the to
 # T6 – Source-protection routing across the S1 to S10 safety overrides
 
 !!! abstract "TL;DR"
- Use this tree as the canonical reference for the ten safety-override classes that the toolkit's other six trees and its tool cards reference by number. Each S-number is a triggering condition plus a required action; collected here, they form the source-protection layer of the workflow. Read T6 alongside the calling tree, not after.
+    Use this tree as the canonical reference for the ten safety-override classes that the toolkit's other six trees and its tool cards reference by number. Each S-number is a triggering condition plus a required action; collected here, they form the source-protection layer of the workflow. Read T6 alongside the calling tree, not after.
 
 ## When to use this tree
 

@@ -6,7 +6,7 @@ summary: "Seventeen-node first-line workflow for viral short videos, livestream 
 # T2 – First-line triage for a suspected AI-generated video
 
 !!! abstract "TL;DR"
- Use this tree for short videos, livestream clips, political endorsements, alleged protest or violence footage, and screen recordings carrying cloned audio. The tree separates URL preservation, keyframe-driven reverse search, and source behaviour from synthetic-video detection, which sits at the end as a weak signal.
+    Use this tree for short videos, livestream clips, political endorsements, alleged protest or violence footage, and screen recordings carrying cloned audio. The tree separates URL preservation, keyframe-driven reverse search, and source behaviour from synthetic-video detection, which sits at the end as a weak signal.
 
 ## When to use this tree
 

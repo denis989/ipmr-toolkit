@@ -6,7 +6,7 @@ summary: "Sixteen-node first-line workflow for viral voice notes, alleged leaked
 # T3 – First-line triage for a suspected AI-generated audio or voice clone
 
 !!! abstract "TL;DR"
- Use this tree when a viral voice note or alleged leaked call lands in your queue and you need a defensible position before publishing or amplifying. Audio deepfake detection is the most fragile detector class in the toolkit; the workflow leans on transcription, speaker context, distribution pattern, and local-language review, with a detector run only if it is safe to upload.
+    Use this tree when a viral voice note or alleged leaked call lands in your queue and you need a defensible position before publishing or amplifying. Audio deepfake detection is the most fragile detector class in the toolkit; the workflow leans on transcription, speaker context, distribution pattern, and local-language review, with a detector run only if it is safe to upload.
 
 ## When to use this tree
 

@@ -6,7 +6,7 @@ summary: "Sixteen-node first-line workflow for viral images, screenshots, and st
 # T1 – First-line triage for a suspected AI-generated image
 
 !!! abstract "TL;DR"
- Use this tree when a viral image lands in your queue and you need a defensible first-line judgment in five to thirty minutes, before publishing, amplifying, or escalating. The tree leads with file preservation, provenance, reverse search, and existing debunks, and reaches a detector only after non-detector signals are exhausted.
+    Use this tree when a viral image lands in your queue and you need a defensible first-line judgment in five to thirty minutes, before publishing, amplifying, or escalating. The tree leads with file preservation, provenance, reverse search, and existing debunks, and reaches a detector only after non-detector signals are exhausted.
 
 ## When to use this tree
 

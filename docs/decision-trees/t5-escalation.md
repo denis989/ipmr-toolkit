@@ -6,7 +6,7 @@ summary: "Eighteen-node escalation workflow. Two entry conditions: high-impact c
 # T5 – Escalation when first-line triage is inconclusive or tools disagree
 
 !!! abstract "TL;DR"
- Use this tree when [first-line triage](../pillar-1-detection/1a-first-line-triage.md) cannot reach a defensible result, when harm is high enough that the toolkit's two-non-detector-signals threshold has not yet been cleared, or when two detectors disagree. The workflow routes by content type into [professional verification](../pillar-1-detection/1b-professional-verification.md) and ends at one of six narrow conclusions, including the explicit option of "insufficient evidence" carried forward as a published method note.
+    Use this tree when [first-line triage](../pillar-1-detection/1a-first-line-triage.md) cannot reach a defensible result, when harm is high enough that the toolkit's two-non-detector-signals threshold has not yet been cleared, or when two detectors disagree. The workflow routes by content type into [professional verification](../pillar-1-detection/1b-professional-verification.md) and ends at one of six narrow conclusions, including the explicit option of "insufficient evidence" carried forward as a published method note.
 
 ## When to use this tree
 
