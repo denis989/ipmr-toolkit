@@ -15,7 +15,6 @@ edit_uri: "edit/main/docs/"
 theme:
   name: material
   language: en
-  custom_dir: overrides
   font: false  # PDF version is Arial only; web view uses default sans
   features:
     - navigation.tabs
