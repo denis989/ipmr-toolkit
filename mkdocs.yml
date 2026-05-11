@@ -1,0 +1,154 @@
+# IPMR Toolkit — MkDocs configuration
+# Material theme, GitHub Pages deployment, mkdocs-with-pdf for offline PDF.
+# Source of truth lives in docs/ Markdown files; PDF is generated on tagged release.
+
+site_name: "Triaging and Countering AI-Powered Disinformation and Influence Operations"
+site_description: "An IPMR practitioner toolkit for fact-checkers, OSINT investigators, and civil society in Indonesia, Laos, Malaysia, Philippines, Sri Lanka, and Thailand."
+site_url: "https://denis989.github.io/ipmr-toolkit/"
+site_author: "Internews Europe (IPMR)"
+copyright: "Copyright (c) 2026 Internews Europe — IPMR project, EU-funded."
+
+repo_url: "https://github.com/denis989/ipmr-toolkit"
+repo_name: "ipmr-toolkit"
+edit_uri: "edit/main/docs/"
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  font: false  # PDF version is Arial only; web view uses default sans
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - content.tabs.link
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    # Light mode — selected when OS prefers light, or when user toggles to sun icon.
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode — selected when OS prefers dark, or when user toggles to moon icon.
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+exclude_docs: |
+  _template.md
+
+plugins:
+  - search
+  - mermaid2:
+      version: 10.9.0
+  # - with-pdf:
+  # author: "Internews Europe (IPMR)"
+  # copyright: "Copyright (c) 2026 Internews Europe"
+  # cover_title: "Triaging and Countering AI-Powered Disinformation and Influence Operations"
+  # cover_subtitle: "An IPMR practitioner toolkit for Southeast and South Asia"
+  # output_path: pdf/ipmr-toolkit.pdf
+  # enabled_if_env: ENABLE_PDF_EXPORT  # opt-in to keep dev builds fast
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      base_path:
+        - docs/includes
+      auto_append:
+        - abbreviations.md
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# Navigation skeleton.
+nav:
+  - Home: index.md
+  - Pillar 1 — Detect & Triage:
+    - pillar-1-detection/index.md
+    - First-Line Triage (1A): pillar-1-detection/1a-first-line-triage.md
+    - Professional Verification (1B): pillar-1-detection/1b-professional-verification.md
+    - Institutional Analysis (1C): pillar-1-detection/1c-institutional-analysis.md
+  - Pillar 2 — Counter:
+    - pillar-2-counter/index.md
+    - AI-Assisted Workflows (2A): pillar-2-counter/2a-workflows.md
+    - Collaborative Verification (2B): pillar-2-counter/2b-collaborative.md
+    - Large-Scale Intelligence (2C): pillar-2-counter/2c-intelligence.md
+  - Tool cards:
+    - tool-cards/index.md
+  - Decision trees:
+    - decision-trees/index.md
+    - T1 — Image triage: decision-trees/t1-image-triage.md
+    - T2 — Video triage: decision-trees/t2-video-triage.md
+    - T3 — Audio triage: decision-trees/t3-audio-triage.md
+    - T4 — Provenance triage: decision-trees/t4-provenance-triage.md
+    - T5 — Escalation: decision-trees/t5-escalation.md
+    - T6 — Source-protection: decision-trees/t6-source-protection.md
+    - T7 — Tipline routing: decision-trees/t7-tipline-routing.md
+  - Countries:
+    - countries/index.md
+    - Indonesia: countries/indonesia.md
+    - Laos: countries/laos.md
+    - Malaysia: countries/malaysia.md
+    - Philippines: countries/philippines.md
+    - Sri Lanka: countries/sri-lanka.md
+    - Thailand: countries/thailand.md
+  - Digital safety:
+    - digital-safety/index.md
+    - Country-specific legal context: digital-safety/country-legal-context.md
+    - Source-protection aggregation: digital-safety/source-protection-aggregation.md
+    - Threat models: digital-safety/threat-models.md
+    - Operational checklists: digital-safety/operational-checklists.md
+  - Platforms:
+    - platforms/index.md
+    - WhatsApp: platforms/whatsapp.md
+    - LINE: platforms/line.md
+    - TikTok: platforms/tiktok.md
+    - Facebook: platforms/facebook.md
+    - Telegram: platforms/telegram.md
+    - YouTube: platforms/youtube.md
+    - X: platforms/x.md
+  - Methodology:
+    - methodology/index.md
+    - How we chose tools: methodology/how-we-chose-tools.md
+    - Selection criteria: methodology/selection-criteria.md
+    - Editorial patterns: methodology/editorial-patterns.md
+    - Architectural anchors: methodology/architectural-anchors.md
+    - Codes and terms: methodology/codes-reference.md
+    - Change log: methodology/change-log.md

@@ -1,0 +1,71 @@
+# IPMR Toolkit — .gitignore
+# OS junk, editor noise, Python build artefacts, and mkdocs build output.
+
+# macOS system files
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows / cross-platform
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Node (in case any helper script is added later)
+node_modules/
+
+# MkDocs build output
+site/
+
+# PDF / LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+.pdf-build/
+
+# Credentials and secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+credentials.json
+.secrets/
+
+# Generic temp / backup files
+*.tmp
+*.bak
+*.orig
+*.rej
