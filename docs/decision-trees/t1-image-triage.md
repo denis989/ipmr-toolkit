@@ -1,6 +1,6 @@
 ---
 title: "T1 – First-line triage for a suspected AI-generated image"
-summary: "Sixteen-node first-line workflow for viral images, screenshots, and stills lifted from short video. Treats every detector verdict as one weak signal; requires at least one non-detector signal before any synthetic label."
+summary: "Sixteen-node first-line workflow for viral images, screenshots, and stills lifted from short video. Treats every detector verdict as one weak signal; requires at least two non-detector signals from different signal classes before any synthetic label."
 ---
 
 # T1 – First-line triage for a suspected AI-generated image
