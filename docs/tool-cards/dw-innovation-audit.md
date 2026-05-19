@@ -38,7 +38,7 @@ detector class: every claim the toolkit makes about audio detector
 unreliability across SEA languages traces back to this audit. The
 card exists to give the audit an addressable citation point inside
 the toolkit so that other tool cards (Hiya,
-TOOL-STUB-DEEPFAKETOTAL, TrueMedia) can refer to it
+Deepfake Total, TrueMedia) can refer to it
 unambiguously and so that decision trees (T3 Audio triage) can cite
 it as the editorial anchor.
 
@@ -75,7 +75,7 @@ The audit is the binding citation source for:
 - The TL;DR framing on every audio detector card in 1B.3: the
  detector-as-weak-signal sentence is anchored in the DW conclusion.
 - The C1 wrapping pair on [Hiya](hiya-loccus.md) (4-of-10
- finding) and on [TOOL-STUB-DEEPFAKETOTAL Deepfake Total](deepfake-total-stub.md) (7-of-10 finding).
+ finding) and on [Deepfake Total](deepfake-total-stub.md) (7-of-10 finding).
 - The C2 verbatim limitation on every audio detector card: "do not
  reliably identify AI voices across languages."
 - The cell-level honest-gap statements at 1A.3 First-Line Triage
@@ -114,7 +114,7 @@ institutional publishers.
 Reference, not tool. Sits at 1B.3 audio deepfake forensics as the
 secondary entry that anchors the cell's editorial frame. Every
 deployable audio detector card in the cell ([Hiya / Loccus](hiya-loccus.md),
-[TOOL-STUB-DEEPFAKETOTAL](deepfake-total-stub.md),
+[Deepfake Total](deepfake-total-stub.md),
 [TrueMedia.org (Georgetown McCourt School)](truemedia-georgetown.md)) cross-references this card for
 the binding audit evidence.
 

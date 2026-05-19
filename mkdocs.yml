@@ -99,6 +99,8 @@ markdown_extensions:
 # Navigation skeleton.
 nav:
   - Home: index.md
+  - Tool cards:
+    - tool-cards/index.md
   - Pillar 1 — Detect & Triage:
     - pillar-1-detection/index.md
     - First-Line Triage (1A): pillar-1-detection/1a-first-line-triage.md
@@ -109,8 +111,6 @@ nav:
     - AI-Assisted Workflows (2A): pillar-2-counter/2a-workflows.md
     - Collaborative Verification (2B): pillar-2-counter/2b-collaborative.md
     - Large-Scale Intelligence (2C): pillar-2-counter/2c-intelligence.md
-  - Tool cards:
-    - tool-cards/index.md
   - Decision trees:
     - decision-trees/index.md
     - T1 — Image triage: decision-trees/t1-image-triage.md

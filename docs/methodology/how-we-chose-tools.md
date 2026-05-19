@@ -35,7 +35,7 @@ The [architectural-anchors page](architectural-anchors.md) sets out the three an
 
 ## The seven content policies
 
-Five content policies were locked at the end of the initial source review. Two more emerged as operational patterns through the cards themselves. The seven together are non-negotiable for any tool card the toolkit ships.
+Five content policies were locked at the end of the initial scoping work. Two more emerged as operational patterns through the cards themselves. The seven together are non-negotiable for any tool card the toolkit ships.
 
 The honest-gap policy for Lao and Sinhala / Tamil is the first. Languages are never masked by fallback to multilingual models. Every detection section carries an explicit block stating what coverage exists for Lao and for Sinhala / Tamil specifically, even where the answer is "none, falls back to XLM-R via Alegre, validate locally before trusting." No silent inheritance. The pairing between Lao and Sinhala / Tamil is intentional; Sri Lankan readers are not held to a higher coverage standard than Lao readers.
 

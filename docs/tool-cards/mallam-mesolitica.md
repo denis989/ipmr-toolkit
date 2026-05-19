@@ -150,7 +150,7 @@ the shortlist as an escalation-option rather than a primary.
  operated independence caveat) and with SEA-LION
  at 2B.3 (broader-regional default; MaLLaM is the
  Malaysia-specific escalation-option for Malay-first
- phrasing). Documented use is Malaysian NLP per inventory.
+ phrasing). Documented use is Malaysian NLP.
 - **Philippines:** not applicable; Filipino / Tagalog
  is not covered.
 - **Sri Lanka:** not applicable; Sinhala and Tamil

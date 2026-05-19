@@ -72,8 +72,8 @@ as a verdict.
 
 !!! warning "Vendor claim vs independent assessment"
     **Vendor claim:** Deepware does not publish a sharp headline
-    accuracy figure; inventory records mid-tier accuracy in the
-    80-85% range, characterised by Deepware as subject to "constant
+    accuracy figure; mid-tier accuracy in the 80-85% range is on
+    record, characterised by Deepware as subject to "constant
     adversarial obsolescence."
 
     **Independent finding:** WITNESS / Reuters Institute's April 2024

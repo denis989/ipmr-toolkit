@@ -266,7 +266,7 @@ derived institutional research finding as an external source.")
  discipline.
 6. For institutional partners considering direct procurement of
  the SOMAR VDE tier: verify current pricing and partnership
- terms with Meta Content Library directly; the inventory figure
+ terms with Meta Content Library directly; the documented figure
  ($1,000 set-up plus $371 per month) is the January 31 2026
  record and may have shifted.
 
@@ -331,14 +331,14 @@ institutional finding.
     access for the toolkit's frontline audience) and
     rescued as escalation-option rather than excluded. The Cost,
     How to access, and Country and platform applicability
-    sections render the gating concretely; the In the toolkit's
-    workflow section frames the editorial-position statement.
+    sections render the gating concretely; the workflow section
+    frames the editorial-position statement.
 
     - **Journalists excluded disclaimer (journalists-excluded-
     disclaimer):** Meta's formal access terms exclude journalists
-    from MCL. The Limitations admonition states this verbatim
-    from inventory; the Quickstart redirect (cite as external
-    source rather than deploy) is the operational consequence
+    from MCL. The Limitations admonition states this verbatim;
+    the Quickstart redirect (cite as external source instead of
+    deploying) is the operational consequence
     for the toolkit's primary audience of fact-checkers and
     civil-society staff who are not affiliated with a
     qualifying-academic institution.

@@ -188,14 +188,11 @@ public free tier.
 Free tier sufficient for typical triage volume. Web demo and Chrome
 extension are unmetered; Developer API gives 100 free requests per
 day. Higher-volume API access is commercial; enterprise demos are
-quoted on request. Inventory cost figure carries a CONFLICT marker
-between three source files (Gemini "limited free tiers / API
-quotas", Claude "free tier + 100 free API requests/day", ChatGPT
-"free extension + commercial APIs/demos"); the consensus reading is
-that the free tier covers ordinary fact-check use without paid
-escalation, with paid tiers existing for high-volume API or
-enterprise integrations. Verify directly before committing to API
-integration.
+quoted on request. Pricing descriptions for Hive vary in public
+documentation but converge on the reading that the free tier
+covers ordinary fact-check use without paid escalation, with paid
+tiers existing for high-volume API or enterprise integrations.
+Verify directly before committing to API integration.
 
 ## Quickstart
 

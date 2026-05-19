@@ -124,8 +124,7 @@ local publication without secondary legal risk.
  rather than running it directly.
 - **Sri Lanka:** language-agnostic; Hashtag Generation and
  Watchdog operate at the research layer where partner Graphika
- output is occasionally cited; direct access is not present in the
- toolkit's inventory.
+ output is occasionally cited; direct access is not on record.
 - **Thailand:** language-agnostic; documented relevance via
  AFP regional partnerships; Thai newsroom direct access not
  documented.
@@ -152,10 +151,8 @@ defensibly.
 ## Cost (current as of 2026-05)
 
 Enterprise pricing in the **$50,000 to $200,000-plus per year** range
-. This figure is from the
-toolkit's inventory and may move with the vendor; verify
-directly through Graphika's sales process before committing to a
-procurement. The bracket is included for editorial honesty about why
+. This figure may move with the vendor; verify directly through
+Graphika's sales process before committing to a procurement. The bracket is included for editorial honesty about why
 Graphika is escalation-option in this cell rather than primary or
 alternative: at this cost, the tool is structurally inaccessible to
 the typical frontline SEA newsroom and is included for awareness of

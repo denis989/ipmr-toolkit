@@ -107,7 +107,7 @@ regardless of the verdict.
 ## Country and platform applicability
 
 - **Indonesia:** standard newsroom verification use; not
- specifically documented in the source review.
+ specifically documented in the regional case material.
 - **Laos:** the cloud-upload caveat is binding given the
  surveillance environment; route to Sherloq instead for any Lao
  source-sensitive material.

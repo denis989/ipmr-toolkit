@@ -40,22 +40,23 @@ that an audio-deepfake-detector card requires (a) verbatim
 limitations from independent audit evidence, (b) a Country and
 platform applicability section grounded in documented SEA
 deployment, and (c) a privacy and threat model section that
-addresses cross-border data flow specifically. The toolkit's inventory
-supplies (a) through DW Innovation audio detection audit (DW Innovation, November 2025) but
-does not supply (b) or (c) at the level the toolkit's reference
-cards demand. Rather than improvising the missing material, the
-toolkit ships this stub and routes the reader explicitly to the
-neighbouring tools that ARE sufficiently documented.
+addresses cross-border data flow specifically. The toolkit's
+evidence base supplies (a) through DW Innovation audio detection
+audit (DW Innovation, November 2025) but does not supply (b) or
+(c) at the level the toolkit's reference cards demand. Instead
+of improvising the missing material, the toolkit ships this stub
+and routes the reader explicitly to the neighbouring tools that
+ARE sufficiently documented.
 
 This stub framing is a feature: the toolkit acknowledges limited
-inventory coverage transparently rather than padding a card with
-inferred content.
+coverage transparently instead of padding a card with inferred
+content.
 
 ## Independent accuracy
 
 !!! warning "Vendor claim vs independent assessment"
-    **Vendor claim:** see vendor docs; the inventory does not
-    record a sharp vendor headline accuracy figure.
+    **Vendor claim:** see vendor docs; no sharp vendor headline
+    accuracy figure is on record.
 
     **Independent finding:** DW Innovation, *Synthetic Audio
     Detectors Put to the Test* (September 2025; the November 2025

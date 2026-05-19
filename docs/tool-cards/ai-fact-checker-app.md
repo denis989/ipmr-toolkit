@@ -132,12 +132,11 @@ warrants.
 
 Decision 7 framing applies: the app is an NLP-class tool, and
 content-language coverage is the operational selection
-criterion. The inventory records the app as available in
-regional app stores across Laos, Malaysia, Philippines, and
-Thailand; the underlying LLM is not documented in the source
-set as language-specific, so content-language coverage is
-inferred from the LLM's underlying multilingual capability
-rather than from a documented per-language benchmark.
+criterion. The app is available in regional app stores across
+Laos, Malaysia, Philippines, and Thailand; the underlying LLM
+is not documented as language-specific, so content-language
+coverage is inferred from the LLM's underlying multilingual
+capability instead of from a documented per-language benchmark.
 
 - **Indonesia:** not in the documented localisation set;
  Indonesian content routes to Kalimasada at 2B.1
@@ -166,10 +165,9 @@ rather than from a documented per-language benchmark.
  with Cofact Thailand at 2B.1 as the Thai
  institutional reference.
 
-Platform applicability: mobile (-mobile). The app is iOS per
-inventory; Android availability via regional Google Play
-deployments is not separately documented in the source set and
-should be verified per country.
+Platform applicability: mobile (-mobile). The app is documented
+as iOS; Android availability via regional Google Play deployments
+is not separately documented and should be verified per country.
 
 ## How to access
 
@@ -186,12 +184,12 @@ and the institutional-workflow alternatives.
 
 ## Cost (current as of 2026-05)
 
-Per inventory, "Proprietary" cost framing; the specific pricing
-model is not documented in the source set. App-store apps
-typically run free with optional in-app purchases or
-subscription tiers; institutional partners pointing users to the
-app should check the current app-store listing for any pricing
-that has changed since the inventory was last reviewed.
+"Proprietary" cost framing; the specific pricing model is not
+publicly documented. App-store apps typically run free with
+optional in-app purchases or subscription tiers; institutional
+partners pointing users to the app should check the current
+app-store listing for any pricing that has changed since this
+card's last verification date.
 
 ## Quickstart
 

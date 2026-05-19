@@ -105,11 +105,9 @@ purposes of Anchor 2's editorial floor on publishable claims.
 ## Limitations
 
 !!! info "Limitations"
-    - Vendor headline of 98% accuracy is a CONFLICT-marked claim in
-    the source review;
-    the same operation returned 79.3% on the Brawner case
-    (verbatim retention required by C2 limitation faithfulness
-    rule).
+    - Vendor headline of 98% accuracy stands in tension with the
+    same operation returning 79.3% on the Brawner case (verbatim
+    retention required by C2 limitation faithfulness rule).
     - Enterprise-only access; high cost barrier.
     - No independent tool-specific benchmark publicly available;
     Sensity sits in the Deepfake-Eval-2024 anonymised commercial

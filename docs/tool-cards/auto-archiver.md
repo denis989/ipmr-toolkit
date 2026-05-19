@@ -146,8 +146,9 @@ goal regardless of who reads it.
 ## Country and platform applicability
 
 - **Indonesia:** language-agnostic; usable as the archiving
- layer underneath the MAFINDO/CekFakta workflow at Kalimasada. No documented Indonesian-specific deployment in
- the inventory but the tool is operationally portable.
+ layer underneath the MAFINDO/CekFakta workflow at Kalimasada. No
+ documented Indonesian-specific deployment, but the tool is
+ operationally portable.
 - **Laos:** language-agnostic; for regional partners
  archiving Lao-content links, the self-hosted deployment is
  the right architectural fit because the operator controls

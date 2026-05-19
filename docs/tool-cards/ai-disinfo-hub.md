@@ -118,9 +118,8 @@ platform-specific tool.
 ## How to access
 
 The AI Disinfo Hub is at the EU DisinfoLab website; the most recent
-inventory record references the November 2025 refresh. Verify the
-current URL on the EU DisinfoLab homepage. No account required for
-access.
+refresh on record is November 2025. Verify the current URL on the
+EU DisinfoLab homepage. No account required for access.
 
 ## Cost (current as of 2026-05)
 
@@ -162,7 +161,7 @@ Standard combinations:
 - With **DW Innovation audit** as the Hub's indexed audit
  source on audio-detector reliability; the Hub is one of the
  pathways through which the DW audit became citable across the
- toolkit's inventory.
+ toolkit.
 - With **TRIED Benchmark (WITNESS)** at 1C.3 – the Hub
  indexes TRIED alongside DW; the two together give the
  Global-South-aware audit and benchmark layer.

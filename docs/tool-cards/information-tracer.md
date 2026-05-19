@@ -80,8 +80,7 @@ non-detector behavioural signal.
     - English-language interface; documented use is in international
     newsroom contexts. SEA-language content works language-agnostically
     (the tool is matching content tokens, not parsing language) but
-    no SEA-specific deployment case is recorded in the toolkit's
-    inventory.
+    no SEA-specific deployment case is on record.
     - Paid-mid tier sits above the budget of typical individual SEA
     newsrooms outside institutional grant access. The toolkit lists
     Media Cloud as the free academic alternative for
@@ -146,9 +145,9 @@ discipline around findings is.
 ## Country and platform applicability
 
 - **Indonesia:** language-agnostic; documented institutional
- use across Indonesian and Philippine newsroom contexts per the
- inventory. Pairs with CooRTweet for IFCN-signatory
- partners running R-based corroboration on the same dataset.
+ use across Indonesian and Philippine newsroom contexts. Pairs
+ with CooRTweet for IFCN-signatory partners running R-based
+ corroboration on the same dataset.
 - **Laos:** language-agnostic; the tool can run on Lao-language
  claim tokens, but the Lao information environment is heavily
  Facebook-centric and the IFCN signatory gap (no Lao signatory)
@@ -188,7 +187,7 @@ vendor's sales process documents tier features and onboarding.
 
 ## Cost (current as of 2026-05)
 
-Paid mid-tier per the source review. Concrete pricing varies by deployment scale and is not
+Paid mid-tier. Concrete pricing varies by deployment scale and is not
 fixed; verify directly through the
 vendor's commercial process before procurement. The framing for cost
 is that Information Tracer sits at the institutional-tier price band
@@ -270,9 +269,9 @@ finding.
     - **Cross-platform correlation mitigation
     (d4-mitigation-pass-cross-platform-correlation):** the
     Limitations admonition records the cross-platform correlation
-    caveat from inventory verbatim; analyst review of the timeline
-    output is part of the method, particularly where the same
-    actor uses different framings on different platforms.
+    caveat verbatim; analyst review of the timeline output is part
+    of the method, particularly where the same actor uses
+    different framings on different platforms.
 
 ## Sources
 

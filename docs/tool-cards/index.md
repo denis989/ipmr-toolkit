@@ -1,18 +1,18 @@
 # Tool cards — pivot view
 
-Sixty-five tools across the twenty-two outline subcategories, ordered
-by outline cell. Cross-cell tools are listed once per cell with a
-single canonical card link. Tier-functional notes follow each cell
-heading per the outline structure.
-
-Every cell has cards in `docs/tool-cards/[slug].md`; cross-links
-across cells are live and bidirectional. The canonical reference
-cards are
-[InVID-WeVerify](invid-weverify.md) (multi-cell, multi-pillar
-deployable tool exemplar), [MAFINDO Kalimasada](mafindo-kalimasada.md)
-(single-country tipline exemplar), and [TRIED Benchmark](tried-benchmark.md)
-(institutional-reference exemplar: framework applied to other tools
-rather than a deployable tool itself).
+These are the sixty-five tools the toolkit references, organised by
+where they sit in the workflow. Each entry links to a one-page card
+with what the tool does, how to access it, language coverage, known
+limitations, and regional relevance. Most tools sit in one cell. A
+few span several and are listed at every cell where they apply,
+with a single canonical card. Three reference cards anchor the
+rest: [InVID-WeVerify](invid-weverify.md) as the multi-cell,
+multi-pillar exemplar; [MAFINDO Kalimasada](mafindo-kalimasada.md)
+as a single-country tipline exemplar; [TRIED Benchmark](tried-benchmark.md)
+as an institutional-reference exemplar, a framework for evaluating
+detectors instead of a deployable tool. Use these as orientation
+for what a tool card looks like before reading the cell-by-cell
+pivot below.
 
 ---
 
@@ -133,7 +133,7 @@ check, voice-comparison interview – before any public claim.
 Cross-language detector unreliability is binding at the
 cell level.
 
-- [TOOL-STUB-DEEPFAKETOTAL Deepfake Total](deepfake-total-stub.md) — detector — alternative (stub)
+- [Deepfake Total](deepfake-total-stub.md) — detector — alternative (stub)
 - [Hiya / Loccus](hiya-loccus.md) — detector — primary (only press-button SEA option)
 - [TrueMedia.org (Georgetown McCourt School)](truemedia-georgetown.md) — mixed-with-declaration — escalation-option (closed beta)
 - [DW Innovation audit](dw-innovation-audit.md) — institutional reference

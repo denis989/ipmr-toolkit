@@ -83,9 +83,9 @@ case for the tool.
     monitoring.
     - English-language interface; the model layer is multilingual
     (Qwen-based) so SEA-language Telegram content can be processed,
-    but no SEA-specific deployment case is recorded in the
-    toolkit's inventory; the documented Animal Político
-    deployment is Spanish-language Mexican content.
+    but no SEA-specific deployment case is on record; the
+    documented Animal Político deployment is Spanish-language
+    Mexican content.
     - Telegram's role as a primary disinformation surface is
     uneven across the six focus countries. Indonesia, Philippines,
     Thailand: secondary surface. Malaysia, Sri Lanka, Laos: lower

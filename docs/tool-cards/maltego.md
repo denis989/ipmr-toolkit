@@ -167,9 +167,8 @@ unchanged.
  in Laos is the structural gap rather than the tool itself. Where
  an institutional partner has analyst capacity, Maltego applies;
  honest gap is on the analyst-capacity side.
-- **Malaysia:** language-agnostic; documented use in the
- toolkit's inventory as a general OSINT tool relevant for
- Malaysian work.
+- **Malaysia:** language-agnostic; documented use as a general
+ OSINT tool relevant for Malaysian work.
 - **Philippines:** language-agnostic; relevant for
  #FactsFirstPH research-layer work and for the broader Rappler
  / VERA Files OSINT base.
@@ -203,11 +202,11 @@ profile; Maltego is not a tool an untrained user runs defensibly.
 ## Cost (current as of 2026-05)
 
 Freemium. Community Edition is free; Professional and Enterprise
-tiers are paid commercial products. The toolkit's inventory records the freemium framing without specific
-2026 figures for the Professional and Enterprise tiers. Vendor
-pricing on commercial OSINT tools moves; verify current pricing
-directly through Maltego Technologies' sales process before
-procurement.
+tiers are paid commercial products. The freemium framing is what
+the toolkit documents; specific 2026 figures for the Professional
+and Enterprise tiers are not on record. Vendor pricing on
+commercial OSINT tools moves; verify current pricing directly
+through Maltego Technologies' sales process before procurement.
 
 Community Edition is operationally adequate for individual
 frontline newsroom use within its feature limits, and the toolkit

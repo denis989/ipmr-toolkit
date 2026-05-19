@@ -144,8 +144,8 @@ step.
 - **Indonesia:** language-agnostic; useful for outdoor
  scene geolocation in Indonesian fact-check work, particularly
  for election-period images of political rallies and public
- events. No documented Indonesian-specific deployment cited in
- the inventory.
+ events. No documented Indonesian-specific deployment is on
+ record.
 - **Laos:** language-agnostic; the Lao-content
  geolocation gap is operational rather than tool-specific.
  Field-recorded images from Laos go through the same routing

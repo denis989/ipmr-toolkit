@@ -96,14 +96,14 @@ non-destructive reading.
 ## Country and platform applicability
 
 - **Indonesia:** standard OSINT use; not specifically
- documented in the source review but applies across MAFINDO
+ documented in the regional case material but applies across MAFINDO
  / CekFakta verification work.
 - **Laos:** offline operation; well-suited to surveillance-
  environment threat model where uploads are themselves a risk.
 - **Malaysia:** standard OSINT use; applies in principle.
 - **Philippines:** Bellingcat-standard tool; applies across
  Rappler and VERA Files investigative work; not specifically named
- in the source review.
+ in the regional case material.
 - **Sri Lanka:** offline operation matters here for the
  same surveillance-environment reasons as Laos; pairs with Sherloq for ELA work on the same source files (regional case documentation;
  Sri Lanka, surveillance-environment caveat).

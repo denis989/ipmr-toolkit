@@ -126,7 +126,7 @@ published for Windows and macOS. No account, no licence key.
 
 Free. MIT-style permissive licence. Open-source single-developer
 project; sustainability depends on the maintainer's continued
-activity, with the inventory recording active maintenance.
+activity, with active maintenance on the public record.
 
 ## Quickstart
 

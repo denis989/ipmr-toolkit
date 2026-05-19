@@ -216,9 +216,10 @@ hypothetical SEA-language adaptation.
 Source-history and behaviour pillar non-detector audience-
 engagement reference per Architectural Anchor 1. Sits in 2A.3
 as the alternative entry that anchors the inoculation-game
-inventory; the operational deployment recommendations for
-the focus countries route through the locally authored
-Tempo Detektif Deepfake and the IREX-led Gali Fakta rather than through direct Bad News deployment.
+landscape; the operational deployment recommendations for the
+focus countries route through the locally authored Tempo
+Detektif Deepfake and the IREX-led Gali Fakta instead of through
+direct Bad News deployment.
 
 Standard combinations (deployment combinations):
 

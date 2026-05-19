@@ -239,9 +239,9 @@ Standard combinations:
  deployable option; TrueMedia is the institutional escalation when
  beta access is available. Per Anchor 3 both count as one detector
  signal class.
-- With **TOOL-STUB-DEEPFAKETOTAL** at 1B.3 – Deepfake Total is the
- audit-leader (DW 7-of-10); TrueMedia is the
- ensemble-with-transparency alternative. Same Anchor 3 framing.
+- With **Deepfake Total** at 1B.3 – the audit-leader (DW 7-of-10);
+ TrueMedia is the ensemble-with-transparency alternative. Same
+ Anchor 3 framing.
 - With **Content Credentials Verify** and **SynthID Detector** at 1A.4 for non-detector provenance pairing.
 - With **Sensity** at 1C.2 for institutional contrast. Both
  are enterprise-tier; Sensity is closed-source vendor; TrueMedia is
@@ -263,7 +263,7 @@ same upload-classification discipline as Hiya.
 ## Conflict resolution behaviour
 
 When TrueMedia's ensemble verdict disagrees with Hiya or
-TOOL-STUB-DEEPFAKETOTAL on the same input, TrueMedia carries
+Deepfake Total on the same input, TrueMedia carries
 slightly stronger evidence weight by virtue of the human-in-the-loop
 verification layer (the platform commits that "every decision
 determined by a model is checked by a human"). The toolkit's

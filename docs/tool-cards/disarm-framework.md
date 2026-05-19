@@ -252,13 +252,13 @@ not detection signals.
     outputs, not deployable software for the toolkit's typical
     frontline audience. The card frames this in the "Why this
     is a framework reference, not a tool card" sub-section and
-    the In the toolkit's workflow section.
+    the workflow section.
 
     - **FIMI vocabulary verbatim caveat
-    (c2-verbatim-FIMI-vocabulary-caveat):** the inventory's
-    verbatim caveat (DISARM "retains FIMI vocabulary; less
-    natural fit for SEA domestic operators") is preserved in
-    Limitations without softening. The toolkit's editorial
+    (c2-verbatim-FIMI-vocabulary-caveat):** the verbatim caveat
+    (DISARM "retains FIMI vocabulary; less natural fit for SEA
+    domestic operators") is preserved in Limitations without
+    softening. The toolkit's editorial
     position is to use ABCDE for the surface and reserve DISARM for institutional
     annexes where European-reference-base interoperability
     matters.

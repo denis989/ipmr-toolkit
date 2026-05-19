@@ -177,8 +177,8 @@ considering integration should reach LIRNEasia or Watchdog
 directly to confirm current access conditions and any
 operational constraints on automated or high-volume use.
 
-The repository is open-source-collective per inventory; the
-specific licence on the underlying code is not surfaced in
+The repository is documented as open-source-collective; the
+specific licence on the underlying code is not surfaced in public
 research, and reuse beyond the public web tool requires direct
 verification on the repo (see Limitations).
 

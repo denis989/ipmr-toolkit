@@ -216,7 +216,7 @@ Standard combinations:
  through the InVID voice-clone tab; the integration is the
  toolkit's only operational path to a press-button SEA voice-clone
  detector.
-- With **TOOL-STUB-DEEPFAKETOTAL** at 1B.3 as the alternative
+- With **Deepfake Total** at 1B.3 as the alternative
  audit-leader (DW 7-of-10) – the two together count as one
  detector signal class under Anchor 3, not two.
 - With **TrueMedia.org (Georgetown McCourt School)** at
@@ -237,7 +237,7 @@ Hiya is routed through the S1 sub-routine before any upload.
 
 ## Conflict resolution behaviour
 
-When Hiya's verdict disagrees with TOOL-STUB-DEEPFAKETOTAL or
+When Hiya's verdict disagrees with Deepfake Total or
 TrueMedia, no audio detector carries decisive evidence
 weight on its own; the DW audit class-level conclusion is binding.
 Hiya specifically carries lower evidence weight than Deepfake Total

@@ -9,11 +9,15 @@ A practitioner reference for triaging suspected AI-generated content and running
 
 ## How to read this toolkit
 
-Two reading paths, depending on what brought you in. A practitioner with a specific case in queue can enter through [Pillar 1 detection and triage](pillar-1-detection/1a-first-line-triage.md) or [Pillar 2 counter-disinformation work](pillar-2-counter/2a-workflows.md), step down the tier ladder from First-Line Triage to Professional Verification to Institutional-Level Analysis, and pull individual [tool cards](tool-cards/index.md) as the case warrants. The [decision trees](decision-trees/index.md) cover image, video, audio, provenance, and tipline routing as flowcharts.
+Three reading paths, depending on what brought you in.
 
-A practitioner orienting to the regional landscape enters through the [country pages](countries/index.md) and follows the links into the cells most relevant to that country's information environment. The country pages are paired where the structural comparison is informative – Sri Lanka and Laos under the honest-gap policy, Indonesia and Malaysia across the Bahasa-Malay border, the Philippines and Thailand on detection versus provenance emphasis.
+A practitioner orienting to the tool landscape starts at [Tool cards](tool-cards/index.md), a pivot view of the sixty-five tools the toolkit references, organised by outline cell. Each tool links to a one-page card with what it does, access model, language coverage, known limitations, and regional relevance. Read this first if the question is "what is in the toolkit"; the pillar pages then walk through how the tools fit together in practice.
 
-[Digital safety](digital-safety/index.md), [platforms](platforms/index.md), and [methodology](methodology/index.md) sit across both paths. Read the digital-safety pages before any source-handling work; the platform pages aggregate platform-specific guidance that the tool cards reference; the methodology layer documents the editorial system at the depth a partner needs to extend or contest it.
+A practitioner with a specific case in queue enters through [Pillar 1 detection and triage](pillar-1-detection/1a-first-line-triage.md) or [Pillar 2 counter-disinformation work](pillar-2-counter/2a-workflows.md), steps down the tier ladder from First-Line Triage to Professional Verification to Institutional-Level Analysis, and returns to the tool cards as the case warrants. The [decision trees](decision-trees/index.md) cover image, video, audio, provenance, and tipline routing as flowcharts.
+
+A practitioner orienting to the regional landscape enters through the [country pages](countries/index.md) and follows the links into the cells most relevant to that country's information environment. The country pages are paired where the structural comparison is informative: Sri Lanka and Laos under the honest-gap policy, Indonesia and Malaysia across the Bahasa-Malay border, the Philippines and Thailand on detection versus provenance emphasis.
+
+[Digital safety](digital-safety/index.md), [platforms](platforms/index.md), and [methodology](methodology/index.md) sit across all three paths. Read the digital-safety pages before any source-handling work; the platform pages aggregate platform-specific guidance that the tool cards reference; the methodology layer documents the editorial system at the depth a partner needs to extend or contest it.
 
 ## What this toolkit is not
 

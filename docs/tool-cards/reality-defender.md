@@ -206,9 +206,8 @@ commercial agreement through Reality Defender's sales process.
 
 Free tier of 50 audio-or-image scans per month for evaluation use.
 Enterprise pricing for full API access is commercial and quoted on
-request; the inventory does not record a specific bracket. Verify
-directly through Reality Defender's sales process before committing
-to a procurement. The free tier is sufficient for an SEA newsroom
+request; no specific bracket is published. Verify directly through
+Reality Defender's sales process before committing to a procurement. The free tier is sufficient for an SEA newsroom
 evaluation phase, not for sustained operational use.
 
 ## Quickstart

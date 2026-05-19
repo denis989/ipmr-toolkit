@@ -101,11 +101,11 @@ per-viewer effect is necessarily lighter.
     projection requires reconfirmation against current
     platform conditions.
     - Localisation matters and is partial. Jigsaw has deployed
-    campaigns in Indonesian (the Indonesia case noted in the
-    inventory) but the catalogue of pre-built ad creatives
-    skews toward European and US contexts; SEA-specific
-    creative typically requires partner-led development on top
-    of the Jigsaw template framework.
+    campaigns in Indonesian (the documented Indonesia case) but
+    the catalogue of pre-built ad creatives skews toward European
+    and US contexts; SEA-specific creative typically requires
+    partner-led development on top of the Jigsaw template
+    framework.
 
 ## Privacy and threat model
 
@@ -237,9 +237,8 @@ any specific piece of suspect content.
 
 !!! note "Override notes"
     - **Indonesia campaign deployed (b4-score-2-Indonesia-
-    campaign):** the inventory and the [change-log](../methodology/change-log.md)
-    record cite the Indonesian campaign as the SEA-region
-    anchor. The lighter B4 score (2 of 5) reflects that this
+    campaign):** the [change-log](../methodology/change-log.md)
+    record cites the Indonesian campaign as the SEA-region anchor. The lighter B4 score (2 of 5) reflects that this
     is one Indonesian campaign rather than a sustained
     Indonesian deployment; partner-led extension and
     reinforcement is the operational route to deeper SEA

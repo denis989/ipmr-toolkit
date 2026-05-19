@@ -78,7 +78,7 @@ which gives TruFor structural alignment with the toolkit's existing
  (CVPR 2023 paper).
 - A fact-checker UI is being designed and the reliability-map
  output is being incorporated as a visualisation primitive (the
- inventory's killer-feature framing).
+ documented strength).
 
 ## Independent accuracy
 
@@ -179,7 +179,7 @@ through vera.ai consortium membership, not through an open-source fork.
  evidentiary defence matters.
 - **Thailand:** language-agnostic; available to Thai
  university partners; cheapfake-screenshot cases dominate Thai
- political content per inventory framing.
+ political content.
 
 Platform applicability: not platform-specific. Operates on any
 image file the analyst can supply.

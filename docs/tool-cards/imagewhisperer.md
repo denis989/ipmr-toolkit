@@ -66,9 +66,8 @@ verdict.
 ## Independent accuracy
 
 !!! warning "Vendor claim vs independent assessment"
-    **No vendor headline accuracy claim located in inventory or
-    inventory.** The tool is designed around uncertainty-band
-    output, not headline accuracy.
+    **No vendor headline accuracy claim located.** The tool is
+    designed around uncertainty-band output, not headline accuracy.
 
     **No independent SEA-specific benchmark identified as of May
     2026.** Tool is named in GIJN's Top Investigative Tools 2025 as a

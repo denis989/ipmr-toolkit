@@ -137,7 +137,7 @@ API access and for higher-volume free-tier use.
 Free basic tier sufficient for low-volume triage; Premium tier paid
 on a per-seat or per-volume basis. Verify pricing directly before
 any institutional integration as vendor pricing may have shifted
-since the inventory was last reviewed.
+since this card's last verification date.
 
 ## Quickstart
 

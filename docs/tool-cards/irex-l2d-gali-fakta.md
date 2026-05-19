@@ -87,10 +87,10 @@ engagement deployment.
 !!! info "Limitations"
     - Limited SEA language coverage. Indonesian
     adaptation (Gali Fakta) exists; no Thai, Malay, Filipino,
-    Sinhala, Tamil, or Lao adaptations are documented in the
-    inventory. The toolkit's cell-level honest-gap (G-051)
-    names this absence and the operational route is partner-
-    led adaptation rather than direct deployment.
+    Sinhala, Tamil, or Lao adaptations are documented. The
+    toolkit's cell-level honest-gap (G-051) names this absence
+    and the operational route is partner-led adaptation instead
+    of direct deployment.
     - Effectiveness studies, while documented, require careful
     interpretation. The Facciani et al. (Humanities and
     Social Sciences Communications, February 2026) cross-
