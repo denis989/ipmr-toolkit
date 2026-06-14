@@ -21,6 +21,8 @@ tags: [llm, sea-language-nlp, malay, malaysia, mesolitica, hugging-face, foundat
 
 # MaLLaM (Mesolitica)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [mesolitica.com](https://mesolitica.com) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

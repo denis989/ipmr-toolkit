@@ -21,6 +21,8 @@ tags: [transcription, translation, asr, whisper, sea-language-nlp, productivity,
 
 # OpenAI Whisper
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [openai.com/whisper](https://openai.com/research/whisper) | **Type:** Non-detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"
@@ -82,8 +84,7 @@ text a journalist can scan in minutes rather than hours.
     training mix; Sinhala and Lao are supported but with
     documented accuracy drops at the limits of low-resource
     performance.
-    - Lao remains within the structural cell-level honest-gap
-    (G-035). Whisper does transcribe Lao audio, but the output
+    - Lao remains within the structural cell-level honest-gap. Whisper does transcribe Lao audio, but the output
     is unreliable enough that the operational recommendation is
     to pair Whisper Lao output with Google Cloud
     Translation as the only documented Lao text path and with
@@ -148,7 +149,7 @@ deployment path the user runs.
  and Kalimasada in the standard MAFINDO/CekFakta
  workflow.
 - **Laos:** transcribes but unreliable. Honest gap pinned
- at cell level (G-035 / G-042). Operational pairing is with
+ at cell level. Operational pairing is with
  Google Cloud Translation and with diaspora-review or
  regional partner relays per the Laos country-page entry
 .

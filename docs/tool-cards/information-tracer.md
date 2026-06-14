@@ -21,6 +21,8 @@ tags: [claim-monitoring, cross-platform, narrative-tracking, behaviour, rolli, b
 
 # Information Tracer (Rolli)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Paid</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [informationtracer.com](https://informationtracer.com) | **Type:** Non-detector | **Cost:** Paid
 
 !!! abstract "TL;DR"

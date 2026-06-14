@@ -21,6 +21,8 @@ tags: [claim-extraction, sea-language-nlp, bahasa-indonesia, mafindo, hoax-datab
 
 # Yudistira (MAFINDO)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [mafindo.or.id](https://mafindo.or.id) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -35,7 +37,7 @@ tags: [claim-extraction, sea-language-nlp, bahasa-indonesia, mafindo, hoax-datab
 
 Yudistira is the structured hoax database MAFINDO maintains as
 a public reference and machine-readable API. A claim (typically the text or transcribed text of a forwarded
-WhatsApp message, TikTok caption, or Facebook post) queries the
+[WhatsApp](../platforms/whatsapp.md) message, TikTok caption, or Facebook post) queries the
 API and returns
 matches against MAFINDO's corpus of debunked claims. The output
 is "this claim has been debunked here" or "no match," not a
@@ -137,7 +139,7 @@ language; the tool does not cover other SEA languages.
  deepfake cluster are the documented case anchors
 .
 - **Laos:** not applicable. No Lao coverage; the 2B.2
- Lao gap is structural (G-041) and the supporting Lao path
+ Lao gap is structural and the supporting Lao path
  remains Google Cloud Translation routing (2A.1
  cross-link) plus partner-mediated review.
 - **Malaysia:** not applicable as a primary tool. Malay

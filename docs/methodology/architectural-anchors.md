@@ -23,6 +23,15 @@ The anchor surfaces in 2C.1 (automated claim monitoring) at the behaviour pillar
 
 The position the anchor embeds is that detector results are useful as one input among the four pillars, and become misleading the moment a verifier treats them as the load-bearing signal. The position is not anti-detector. The 1A.1, 1A.2, 1A.3, 1B.2, 1B.3, 1C.2, and 1C.3 cells all ship detector tools. The position is anti-detector-as-load-bearing. The detector cards carry the framing through the detector-as-weak-signal caveat; the non-detector cards carry the load-bearing role explicitly in their workflow sections.
 
+The four signal classes, as a quick reference:
+
+| Signal class | What it answers | When it matters most | Strength and weakness |
+|---|---|---|---|
+| Provenance | What the file's manifest says about who made it and how: creator, edit history, AI-use disclosure, signing chain | When a clean original file is in hand carrying C2PA / Content Credentials or a vendor watermark such as SynthID; check it first | The most reliable class and the only one that travels with the file. Regional adoption is patchy and platform re-encoding strips manifests, so most TikTok, WhatsApp, LINE, and Facebook reposts arrive stripped |
+| Source-history | Where the file has been before: reverse-image hits, archived versions, prior debunks, metadata and timestamps, outlet reliability | The productive non-detector mode on most cases; it often resolves the question before any detector tab | Works language-agnostically. Cloud tools carry a source-protection exposure, so an upload-safety check binds before sending an identifying file |
+| Behaviour | What coordination patterns surround the content's spread: posting cadence, account-creation overlap, narrow template space, synchronised bursts across unrelated accounts | When source-history or tipline volume surfaces a coordination signal, or the case scales to cross-platform pattern work | Catches network-level operations a single-artefact read misses. The work is largely institutional and partner-mediated, and no ready-made SEA-specific worked-example casebook exists for this class |
+| Cautious-detector | A probability that the artefact is AI-generated or manipulated | Last resort, after the non-detector signals are exhausted; a fast triage signal alongside non-detector evidence | Fast and multimodal as one input among the four. It is one weak signal, never sufficient alone; multi-detector consensus counts as one class, and the best commercial video detector sits at 0.78 accuracy |
+
 ## Anchor 2 – Two non-detector signals required for any strong public claim
 
 The second anchor is editorial policy, not advisory. Every decision tree's terminal "publish" node enforces it. Every tool card identifies whether its output is a detector signal or a non-detector signal so the editorial layer can apply the rule operationally.

@@ -21,6 +21,8 @@ tags: [reliability-scoring, news-domains, ai-content-farms, paid]
 
 # NewsGuard
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Paid</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [newsguardtech.com](https://newsguardtech.com) | **Type:** Non-detector | **Cost:** Paid
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [benchmark, evaluation-harness, deepfake, academic, docker, icml-2025]
 
 # DeepfakeBench
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/SCLBD/DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) | **Type:** Framework | **Cost:** Free
 
 !!! abstract "TL;DR"

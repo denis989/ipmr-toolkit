@@ -21,6 +21,8 @@ tags: [workflow-management, archival-query, llm, tempo, indonesia, journalismai,
 
 # Tempo Assistant
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Grant-funded</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Operator:** [tempo.co](https://tempo.co) | **Type:** Non-detector | **Cost:** Grant-funded
 
 !!! abstract "TL;DR"

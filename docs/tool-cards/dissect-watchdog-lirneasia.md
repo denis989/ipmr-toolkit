@@ -21,6 +21,8 @@ tags: [claim-extraction, sea-language-nlp, sinhala, sri-lanka, lirneasia, watchd
 
 # Dissect (Watchdog Sri Lanka / LIRNEasia)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [watchdog.team](https://watchdog.team) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

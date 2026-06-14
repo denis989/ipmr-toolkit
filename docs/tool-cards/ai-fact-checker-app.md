@@ -21,6 +21,8 @@ tags: [llm, mobile, fact-check, regional-app-stores, laos, malaysia, philippines
 
 # AI Fact Checker App
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Distribution:** Regional app stores | **Type:** Non-detector | **Cost:** App store
 
 !!! abstract "TL;DR"
@@ -42,7 +44,7 @@ takes a screenshot of a TikTok caption, drops it into the app,
 and gets a structured response framed as a factuality reading.
 
 The app's documented role in the toolkit is regional reach.
-Inventory records explicit localisation across Laos, Malaysia,
+It is localised across Laos, Malaysia,
 Philippines, and Thailand app stores, which makes the tool one
 of the few documented mobile-fact-check products with cross-
 country SEA presence. For a fact-checker pointing a non-

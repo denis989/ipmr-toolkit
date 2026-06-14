@@ -21,6 +21,8 @@ tags: [cib, network-analysis, behaviour, python, copy-pasta-test, open-source]
 
 # CIB Mango Tree
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/civictechdc/cib-mango-tree](https://github.com/civictechdc/cib-mango-tree) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -82,7 +84,7 @@ that a human analyst then interprets in context.
     is only as representative as the data the analyst supplies; no
     Mango Tree result vouches for the completeness of the input.
     - No published SEA-specific deployment is documented in the
-    toolkit's source base (gap G-049): the tool is regionally relevant
+    toolkit's source base: the tool is regionally relevant
     in principle but the worked-example casebook for Indonesia, Malaysia,
     the Philippines, Thailand, Sri Lanka, or Laos has not yet been
     published.

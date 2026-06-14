@@ -21,6 +21,8 @@ tags: [audio, video, image, deepfake, ensemble, georgetown, closed-beta, radical
 
 # TrueMedia.org (Georgetown McCourt School)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [truemedia.org](https://truemedia.org) | **Type:** Detector + non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [telegram, claim-monitoring, pattern-extraction, telegram-specific, animal
 
 # FactFlow AI (Newtral)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Paid</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [newtral.es](https://newtral.es/factflow-ai/) | **Type:** Non-detector | **Cost:** Paid
 
 !!! abstract "TL;DR"
@@ -34,7 +36,7 @@ tags: [telegram, claim-monitoring, pattern-extraction, telegram-specific, animal
 
 ## What it does
 
-FactFlow AI ingests Telegram channel and group data and produces
+FactFlow AI ingests [Telegram](../platforms/telegram.md) channel and group data and produces
 pattern-extraction output across text, audio, and video, surfacing
 recurring claim formulations, amplification clusters, and content
 copy across channels. The underlying model layer wraps Qwen-class

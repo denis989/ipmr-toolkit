@@ -22,6 +22,8 @@ tags: [image-forensics, ela, jpeg-ghosts, prnu, noiseprint, offline, surveillanc
 
 # Sherloq
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

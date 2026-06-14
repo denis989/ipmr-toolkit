@@ -21,6 +21,8 @@ tags: [tipline, line, thailand, crowdsourced, cofact]
 
 # Cofact Thailand
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [cofact.org](https://cofact.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -32,7 +34,7 @@ tags: [tipline, line, thailand, crowdsourced, cofact]
 
 ## What it does
 
-Cofact Thailand operates a LINE chatbot that accepts forwarded
+Cofact Thailand operates a [LINE](../platforms/line.md) chatbot that accepts forwarded
 messages from the public, checks them against a crowdsourced
 volunteer-curated database of fact-checked claims, and returns
 a verdict where one exists. Where no prior verification exists,
@@ -165,7 +167,7 @@ environment in mind.
  (WhatsApp / MAFINDO) and Meedan Check (CekFakta).
 - **Laos:** not applicable. No Lao-language Cofact
  deployment is documented; the Lao tipline gap is structural
- (G-041) and runs across all 2B.1 entries in this toolkit.
+ and runs across all 2B.1 entries in this toolkit.
 - **Malaysia:** not applicable as a primary intake
  channel; Malaysian content routes through Sebenarnya AIFA and regional partner relays.
 - **Philippines:** not applicable; Philippine content

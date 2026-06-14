@@ -275,8 +275,7 @@ combining with claim-extraction (2B.2) or fact-check-database
 the standard one-click plugin (cross-cell from 1B.1, handling
 reverse-image queries plus archived versions in one move), a
 Faktisk-validated AI geolocator, an Amnesty-maintained YouTube
-data viewer, and the Bellingcat archiving companion under G-030
-rapid-archiving discipline. No cell-level honest-gap of note –
+data viewer, and the Bellingcat archiving companion for rapid-archiving discipline. No cell-level honest-gap of note –
 the tools work language-agnostically.
 
 - [InVID-WeVerify](invid-weverify.md) — non-detector — primary (cross-cell from 1A.2 / 1B.1)

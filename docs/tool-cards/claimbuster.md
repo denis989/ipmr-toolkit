@@ -21,6 +21,8 @@ tags: [claim-extraction, english-baseline, academic, ut-arlington, duke-tech-and
 
 # ClaimBuster
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [idir.uta.edu](https://idir.uta.edu/claimbuster/) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

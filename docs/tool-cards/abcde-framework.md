@@ -21,6 +21,8 @@ tags: [framework, taxonomy, public-facing, surface-vocabulary, fimi-alternative,
 
 # ABC / ABCDE Framework
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [disinfolab.eu](https://disinfolab.eu) | **Type:** Framework | **Cost:** Free
 
 !!! abstract "TL;DR"

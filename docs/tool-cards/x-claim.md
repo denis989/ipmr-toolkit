@@ -21,6 +21,8 @@ tags: [claim-extraction, sea-language-nlp, tamil, pan-indian, mbzuai, emnlp, sri
 
 # X-CLAIM
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [github.com/mbzuai-nlp/X-CLAIM](https://github.com/mbzuai-nlp/X-CLAIM) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

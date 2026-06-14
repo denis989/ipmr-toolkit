@@ -21,6 +21,8 @@ tags: [fact-check, claim-database, claimreview, multilingual, ifcn]
 
 # Google Fact Check Explorer
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [toolbox.google.com/factcheck](https://toolbox.google.com/factcheck/explorer) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

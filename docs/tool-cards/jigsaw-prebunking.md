@@ -21,6 +21,8 @@ tags: [prebunking, inoculation, video-ads, campaign, jigsaw, google, indonesia, 
 
 # Jigsaw Prebunking
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Publisher:** [jigsaw.google.com](https://jigsaw.google.com/the-current/prebunking/) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [image, video, audio, deepfake, detector, enterprise, sensity, rappler]
 
 # Sensity AI
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Enterprise</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [sensity.ai](https://sensity.ai) | **Type:** Detector | **Cost:** Enterprise
 
 !!! abstract "TL;DR"

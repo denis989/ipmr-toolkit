@@ -21,6 +21,8 @@ tags: [cib, network-analysis, behaviour, enterprise, influence-operations, graph
 
 # Graphika
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Enterprise</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [graphika.com](https://graphika.com) | **Type:** Non-detector | **Cost:** Enterprise
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [image-forensics, manipulation-localisation, pixel-map, integrity-score, r
 
 # TruFor
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/GRIP-UNINA/TruFor](https://github.com/GRIP-UNINA/TruFor) | **Type:** Detector + non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

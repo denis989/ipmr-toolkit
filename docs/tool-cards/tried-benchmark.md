@@ -21,6 +21,8 @@ tags: [benchmark, evaluation-framework, sociotechnical, witness, global-south, f
 
 # TRIED Benchmark (Truly Innovative and Effective AI Detection)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [witness.org](https://witness.org/resources/?cat=deepfakes) | **Type:** Reference framework | **Cost:** Free
 
 !!! abstract "TL;DR"

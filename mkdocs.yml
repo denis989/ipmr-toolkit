@@ -6,7 +6,7 @@ site_name: "Triaging and Countering AI-Powered Disinformation and Influence Oper
 site_description: "An IPMR practitioner toolkit for fact-checkers, OSINT investigators, and civil society in Indonesia, Laos, Malaysia, Philippines, Sri Lanka, and Thailand."
 site_url: "https://denis989.github.io/ipmr-toolkit/"
 site_author: "Internews Europe (IPMR)"
-copyright: "Copyright (c) 2026 Internews Europe — IPMR project, EU-funded."
+copyright: "Copyright (c) 2026 Internews Europe - IPMR project, EU-funded. · Toolkit v1.1"
 
 repo_url: "https://github.com/denis989/ipmr-toolkit"
 repo_name: "ipmr-toolkit"
@@ -55,6 +55,18 @@ plugins:
   - search
   - mermaid2:
       version: 10.9.0
+  # Last-updated date surfaced on every page (Material renders it natively).
+  # fallback_to_build_date keeps it stable if a CI checkout is shallow; the
+  # deploy workflow already sets fetch-depth: 0, so true authoring dates apply.
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  # Redirect the reviewer-guessed URL to the real pillar index, keeping the
+  # section anchor. The source key is a slug that never had a page; the plugin
+  # emits a stub at pillar-1-detect-and-triage/ that refreshes to the target.
+  # Listed last so it runs after the pages are built.
+  - redirects:
+      redirect_maps:
+        "pillar-1-detect-and-triage.md": "pillar-1-detection/index.md#pillar-1-detect-and-triage"
   # - with-pdf:
   # author: "Internews Europe (IPMR)"
   # copyright: "Copyright (c) 2026 Internews Europe"

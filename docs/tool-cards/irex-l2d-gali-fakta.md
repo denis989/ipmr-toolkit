@@ -21,6 +21,8 @@ tags: [media-literacy, prebunking, irex, gali-fakta, literata, indonesia, sri-la
 
 # IREX Learn to Discern (L2D) / Gali Fakta
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Operator:** [irex.org](https://irex.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -88,7 +90,7 @@ engagement deployment.
     - Limited SEA language coverage. Indonesian
     adaptation (Gali Fakta) exists; no Thai, Malay, Filipino,
     Sinhala, Tamil, or Lao adaptations are documented. The
-    toolkit's cell-level honest-gap (G-051) names this absence
+    toolkit's cell-level honest-gap names this absence
     and the operational route is partner-led adaptation instead
     of direct deployment.
     - Effectiveness studies, while documented, require careful

@@ -21,6 +21,8 @@ tags: [provenance, c2pa, cryptographic-attestation, chain-of-custody]
 
 # C2PA Conformance Explorer
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Publisher:** [c2pa.org](https://c2pa.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

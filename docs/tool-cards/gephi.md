@@ -21,6 +21,8 @@ tags: [network-visualisation, centrality-metrics, behaviour, free-os, civil-soci
 
 # Gephi
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [gephi.org](https://gephi.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

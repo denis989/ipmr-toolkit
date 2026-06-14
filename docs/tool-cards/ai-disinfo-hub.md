@@ -21,6 +21,8 @@ tags: [knowledge-hub, eu-disinfolab, prebunking, audits, sri-lanka-coverage]
 
 # AI Disinfo Hub (EU DisinfoLab)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [disinfolab.eu](https://disinfolab.eu/ai-disinfo-hub/) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [news-monitoring, claim-monitoring, attention-analysis, academic, open-sou
 
 # Media Cloud
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [mediacloud.org](https://mediacloud.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [cib, network-analysis, behaviour, r, coordinated-link-sharing, meta-conte
 
 # CooRTweet (with CooRnet predecessor)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/nicolarighetti/CooRTweet](https://github.com/nicolarighetti/CooRTweet) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

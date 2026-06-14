@@ -21,6 +21,8 @@ tags: [tipline, claim-clustering, whatsapp, messenger, telegram, viber, line, in
 
 # Meedan Check
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [meedan.com](https://meedan.com) | **Type:** Non-detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"
@@ -34,8 +36,8 @@ tags: [tipline, claim-clustering, whatsapp, messenger, telegram, viber, line, in
 ## What it does
 
 Check is a tipline-platform-of-platforms. A newsroom or coalition
-operates a public-facing bot on a messaging app (a WhatsApp number,
-a Messenger page, a Telegram channel, a LINE official account) and
+operates a public-facing bot on a messaging app (a [WhatsApp](../platforms/whatsapp.md) number,
+a Messenger page, a Telegram channel, a [LINE](../platforms/line.md) official account) and
 Check sits behind it as the workspace where forwarded text, images,
 audio, and video land for triage, clustering, claim-matching, and
 editorial review. It accepts intake in 34+ languages including
@@ -153,7 +155,7 @@ hardens.
  documented . The Lao path is structurally
  absent at 2B.1; partner-mediated review and Google
  Cloud Translation routing remain the workaround per the
- honest-gap policy (G-041 — Lao tipline real-gap).
+ honest-gap policy.
 - **Malaysia:** no documented MAFINDO-style Check
  deployment for Malaysia; the Malaysian information environment
  routes through Sebenarnya AIFA (government-run, with

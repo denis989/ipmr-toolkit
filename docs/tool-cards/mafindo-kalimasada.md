@@ -21,6 +21,8 @@ tags: [tipline, whatsapp, indonesia, bahasa, hoax-buster, meedan-check]
 
 # Kalimasada (MAFINDO)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [mafindo.or.id](https://mafindo.or.id) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -32,7 +34,7 @@ tags: [tipline, whatsapp, indonesia, bahasa, hoax-buster, meedan-check]
 
 ## What it does
 
-Kalimasada is a WhatsApp bot operated by MAFINDO that accepts
+Kalimasada is a [WhatsApp](../platforms/whatsapp.md) bot operated by MAFINDO that accepts
 forwarded messages, images, and links from members of the public,
 matches them against MAFINDO's verification database, and returns a
 fact-check response in Bahasa Indonesia. Where no prior verification

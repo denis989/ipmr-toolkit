@@ -21,6 +21,8 @@ tags: [image-forensics, ela, exif, clone-detection, noise, web]
 
 # FotoForensics
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [fotoforensics.com](https://fotoforensics.com) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

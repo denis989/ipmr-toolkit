@@ -21,6 +21,8 @@ tags: [provenance, watermark, google, gemini, imagen, veo]
 
 # SynthID Detector (Google DeepMind)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [synthid.google](https://synthid.google) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

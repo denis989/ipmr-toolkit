@@ -21,6 +21,8 @@ tags: [prebunking, inoculation, media-literacy, deepfake, indonesia, bahasa, tem
 
 # Tempo Detektif Deepfake
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Operator:** [tempo.co](https://tempo.co) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -91,7 +93,7 @@ used.
     Bahasa Indonesia coverage only at present; Thai, Filipino,
     Sinhala, Tamil, Malay, and Lao audiences cannot use the
     game in their working language. The toolkit's cell-level
-    honest-gap (G-051) names the absence of localised
+    honest-gap names the absence of localised
     prebunking effectiveness measurements outside Indonesia.
     - Inoculation effects measured for prebunking generally
     decay over weeks without reinforcement; the literature
@@ -250,7 +252,7 @@ piece of suspect content.
     - **Should be ported to other SEA languages (should-port-
     other-SEA-languages-pointer):** Bahasa Indonesia coverage
     only at present. The cell-level honest-gap on localised
-    prebunking effectiveness outside Indonesia (G-051) names
+    prebunking effectiveness outside Indonesia names
     the structural absence of Thai, Filipino, Sinhala, Tamil,
     Malay, and Lao adaptations; partner-led adaptation is the
     operational route to closing the gap.

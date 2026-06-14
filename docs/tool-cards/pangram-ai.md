@@ -21,6 +21,8 @@ tags: [text, ai-text-detection, multilingual, low-fpr]
 
 # Pangram AI
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [pangram.com](https://pangram.com) | **Type:** Detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

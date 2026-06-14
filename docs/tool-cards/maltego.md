@@ -21,6 +21,8 @@ tags: [osint, link-analysis, network-mapping, behaviour, gold-standard, freemium
 
 # Maltego
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [maltego.com](https://maltego.com) | **Type:** Non-detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [image, video, audio, text, deepfake, detector, enterprise, broadcaster, e
 
 # Reality Defender
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [realitydefender.com](https://realitydefender.com) | **Type:** Detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

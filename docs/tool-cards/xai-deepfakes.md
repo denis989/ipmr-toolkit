@@ -21,6 +21,8 @@ tags: [explainable-ai, deepfake, video, image, gradcam, shap, lime, efficient-ne
 
 # XAI-Deepfakes
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/IDT-ITI/XAI-Deepfakes](https://github.com/IDT-ITI/XAI-Deepfakes) | **Type:** Detector | **Cost:** Free
 
 !!! abstract "TL;DR"

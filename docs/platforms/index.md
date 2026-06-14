@@ -33,7 +33,7 @@ The pages below document each platform's operational character at the depth a wo
 
 The [WhatsApp page](whatsapp.md) covers the dominant personal-messaging platform across Indonesia, Malaysia, Sri Lanka and the Philippines. End-to-end encryption means S5 (private group collection) fires by default; the tipline architecture (MAFINDO Kalimasada, Meedan Check, Cofact, AIFA) is the operational substitute for the inability to scrape.
 
-The [LINE page](line.md) covers Thai messaging. Cofact's LINE-native operational form is the worked case. The LINE codec compression gap (G-017) on audio and video material is the documented forensics caveat.
+The [LINE page](line.md) covers Thai messaging. Cofact's LINE-native operational form is the worked case. The LINE codec compression gap on audio and video material is the documented forensics caveat.
 
 The [TikTok page](tiktok.md) covers the video-first election-cycle platform. Keyframe extraction before reverse-image work is the verification-routing handle. The short-form character means deepfake clips travel quickly and watermarking is harder to recover at the user-facing layer.
 

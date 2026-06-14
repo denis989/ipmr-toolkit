@@ -1,3 +1,48 @@
+/* Heading accent: restrained brand-blue differentiation between section
+   levels. Colour only: no rules, no backgrounds. Body text and the h1 page
+   title keep the default typeset colour, so the clean typography is intact.
+   The accent lifts to a lighter tint on the slate (dark) palette for legible
+   contrast on the near-black canvas. */
+[data-md-color-scheme="default"] {
+  --ipmr-accent: #37589C;       /* Internews brand blue */
+  --ipmr-accent-soft: #5b6f96;  /* muted brand tone for one level down */
+}
+[data-md-color-scheme="slate"] {
+  --ipmr-accent: #9db4de;
+  --ipmr-accent-soft: #8a99bb;
+}
+.md-typeset h2 { color: var(--ipmr-accent); }
+.md-typeset h3 { color: var(--ipmr-accent-soft); }
+
+/* Tool-card at-a-glance badges: cost (from the card's cost field) and
+   difficulty (from the outline-cell tier). Text-labelled, so meaning never
+   rests on colour; brand-toned outline so they sit quietly under the title.
+   Cost is a solid outline, difficulty a dashed outline, a shape difference
+   that survives greyscale and works in both palettes. */
+.md-typeset .ipmr-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0 0 1rem;
+}
+.md-typeset .ipmr-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.66rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  padding: 0.05rem 0.55rem;
+  border: 1px solid var(--ipmr-accent);
+  border-radius: 0.7rem;
+  color: var(--ipmr-accent);
+  background: transparent;
+  white-space: nowrap;
+}
+.md-typeset .ipmr-badge--tier {
+  border-style: dashed;
+}
+
 /* Footer palette override.
    Material's footer uses its own CSS variables independent of `primary` —
    defaults to dark in every scheme. Make footer follow the active palette

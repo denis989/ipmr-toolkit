@@ -23,6 +23,8 @@ tags: [image, video, audio, reverse-image, geolocation, archiving, metadata, dee
 
 # InVID-WeVerify Verification Plugin
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Multi-tier</span></div>
+
 **Vendor:** [invid-project.eu](https://invid-project.eu) | **Type:** Detector + non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

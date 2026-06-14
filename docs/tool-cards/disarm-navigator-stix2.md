@@ -21,6 +21,8 @@ tags: [framework-tooling, disarm, stix2, csirt, intelligence-sharing, escalation
 
 # DISARM Foundation Navigator + STIX2
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/disarm-platform](https://github.com/disarm-platform) | **Type:** Framework | **Cost:** Free
 
 !!! abstract "TL;DR"

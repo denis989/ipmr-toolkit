@@ -21,6 +21,8 @@ tags: [image, uncertainty-band, gijn, deadline-journalism]
 
 # ImageWhisperer / Detectai.live
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [detectai.live](https://detectai.live) | **Type:** Detector + non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

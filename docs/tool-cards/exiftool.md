@@ -22,6 +22,8 @@ tags: [metadata, exif, iptc, xmp, gps, cli, batch]
 
 # ExifTool
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [exiftool.org](https://exiftool.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

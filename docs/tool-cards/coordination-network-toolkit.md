@@ -21,6 +21,8 @@ tags: [cib, network-analysis, behaviour, r, python, coordination, qut]
 
 # Coordination Network Toolkit
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/QUT-Digital-Observatory/coordination-network-toolkit](https://github.com/QUT-Digital-Observatory/coordination-network-toolkit) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

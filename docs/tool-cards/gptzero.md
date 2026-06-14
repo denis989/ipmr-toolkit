@@ -21,6 +21,8 @@ tags: [text, ai-text-detection, esl-bias, cautionary-case]
 
 # GPTZero
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [gptzero.me](https://gptzero.me) | **Type:** Detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

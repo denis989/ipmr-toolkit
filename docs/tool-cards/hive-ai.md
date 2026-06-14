@@ -22,6 +22,8 @@ tags: [image, video, audio, multimodal, detector]
 
 # Hive AI (Hive Moderation / Hive Detect / Hive AI Detector)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [hivemoderation.com](https://hivemoderation.com) | **Type:** Detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [prebunking, inoculation, game, cambridge, drog, bad-news, harmony-square,
 
 # Bad News / Harmony Square / Bad News Game
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Publisher:** [goviralgame.com](https://goviralgame.com/en) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -103,7 +105,7 @@ operational route.
     Sinhala, Tamil, Malay, and Lao adaptations would need to
     be commissioned from Cambridge SDML / DROG / Gusmanson
     under the standard adaptation route. The toolkit's
-    cell-level honest-gap (G-051) on localised prebunking
+    cell-level honest-gap on localised prebunking
     effectiveness outside Indonesia applies here directly.
     - Game scenarios were authored against Western and
     European information environments; adaptation requires

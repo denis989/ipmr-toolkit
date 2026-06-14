@@ -54,6 +54,7 @@ Side exits off the main chain — kept out of the diagram for clarity, documente
 - **Coordination dominates** at T5.5 or T5.11 → coordinated-operation analysis (see the 1C Institutional Analysis section).
 - **Unsafe upload** at T5.4 → [T5.17 External expert](#t5-17) directly, bypassing the in-house verification chain.
 - **High harm at convergence** (T5.11 / T5.12) → [T5.17 External expert](#t5-17), then back to T5.15 method note before publication.
+- **Close the case** at T5.11 → [T5.15 method note](#t5-15), then [T5.16 narrowest defensible finding](#t5-16), when two independent non-detector classes have converged or further escalation will not move the finding. Insufficient evidence is itself a defensible close; a low-harm case can instead drop to the [T5.2 monitor exit](#t5-2).
 - **Public response** at T5.16 → [T7 tipline routing](t7-tipline-routing.md) for the per-country response surface.
 
 ## How to read this tree

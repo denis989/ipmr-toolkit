@@ -21,6 +21,8 @@ tags: [llm, sea-language-nlp, ai-singapore, multilingual, multimodal, hugging-fa
 
 # SEA-LION
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [aisingapore.org](https://aisingapore.org/aiproducts/sea-lion/) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -169,7 +171,7 @@ documented in LIRNEasia research is the cross-reference pointer.
  operational answer to the Lao 2B.3 question; it is one of three
  cells in 2B where Lao would otherwise be a structural gap.
  The other two 2B Lao gaps remain real: 2B.1 has no
- Lao-language tipline (G-041) and 2B.2 has no Lao-language
+ Lao-language tipline and 2B.2 has no Lao-language
  claim-extraction tool, with the supporting path running
  through Google Cloud Translation. SEA-LION's Lao
  coverage closes the 2B.3 hole partially; institutional

@@ -21,6 +21,8 @@ tags: [audit, audio-detection-evidence, institutional-reference, eu-disinfolab]
 
 # DW Innovation audio detection audit
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [innovation.dw.com](https://innovation.dw.com) | **Type:** Reference framework | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -79,9 +81,8 @@ The audit is the binding citation source for:
 - The C2 verbatim limitation on every audio detector card: "do not
  reliably identify AI voices across languages."
 - The cell-level honest-gap statements at 1A.3 First-Line Triage
- audio and 1B.3 Professional Verification audio: lao-real-gap-audio
- (G-042), sinhala-tamil-asymmetric-gap (regional research),
- whatsapp-line-codec-untested (G-017), detector-class-unreliable-
+ audio and 1B.3 Professional Verification audio: lao-real-gap-audio, sinhala-tamil-asymmetric-gap (regional research),
+ whatsapp-line-codec-untested, detector-class-unreliable-
  cross-language.
 - The [T3 audio triage](../decision-trees/t3-audio-triage.md)
  stop-condition that prevents publication of any binary AI-audio

@@ -21,6 +21,8 @@ tags: [network-monitoring, censorship, blocking-detection, ooni, malaysia, civil
 
 # Sinar Project iMAP (Internet Monitoring Action Project)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [sinarproject.org](https://sinarproject.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

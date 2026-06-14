@@ -21,6 +21,8 @@ tags: [claim-extraction, sea-language-nlp, multilingual, xlm-r, meedan, similari
 
 # Meedan Alegre
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [meedan.com](https://meedan.com) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -137,7 +139,7 @@ caveat that goes with that coverage.
  only entry in this cell that covers Lao at all. The
  performance is low-resource and validation is required
  before trusting the similarity output; the toolkit's Lao
- honest-gap framing applies (G-041) and the supporting Lao
+ honest-gap framing applies and the supporting Lao
  path remains Google Cloud Translation (2A.1
  cross-link) plus partner-mediated review.
 - **Malaysia:** Malay coverage via XLM-R; pairs cleanly
@@ -274,7 +276,7 @@ multi-signal verification workflows.
     content, paired with Google Cloud Translation
     and partner-mediated review. The fallback is multilingual
     coverage, not Lao-tuned coverage; the Lao honest-gap
-    pin (G-041) applies and validation is required before
+    pin applies and validation is required before
     trusting similarity output.
 
 ## Sources

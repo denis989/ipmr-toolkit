@@ -4,15 +4,15 @@ A practitioner toolkit for fact-checkers, OSINT investigators, and
 civil society staff working on AI-powered disinformation in
 **Indonesia, Laos, Malaysia, the Philippines, Sri Lanka, and Thailand**.
 
-**Live site:** [denis989.github.io/ipmr-toolkit](https://denis989.github.io/ipmr-toolkit/)
+**Live site:** [denis989.github.io/ipmr-toolkit](https://denis989.github.io/ipmr-toolkit/) · **Version:** v1.1
 
 ## What this is
 
 A regionally-anchored reference for triaging suspected AI-generated
-content — images, video, audio, text, and coordinated operations —
-and for using AI responsibly inside fact-checking and counter-
-disinformation work. The toolkit is intended to be used at the
-desk during a working case, not read end-to-end.
+content (images, video, audio, text, and coordinated operations) and
+for using AI responsibly inside fact-checking and counter-disinformation
+work. The toolkit is intended to be used at the desk during a working
+case, not read end-to-end.
 
 It covers:
 
@@ -55,12 +55,12 @@ The fastest path:
    the toolkit's framing and the three architectural anchors that
    constrain every tool card.
 2. Pick the [decision tree](https://denis989.github.io/ipmr-toolkit/decision-trees/)
-   that matches your case — image, video, audio, provenance, or
-   escalation — and follow the linear chain.
+   that matches your case (image, video, audio, provenance, or
+   escalation) and follow the linear chain.
 3. Click any block in the tree to jump to the Node detail row that
    names tools, time budgets, and exact wording for the step.
 4. Cross-link to a [tool card](https://denis989.github.io/ipmr-toolkit/tool-cards/)
-   when the tree references a specific tool — every card carries a
+   when the tree references a specific tool. Every card carries a
    Limitations section before How-to-access, so you can rule a tool
    out without reading the full card.
 5. If the case touches a vulnerable source, an authoritarian context,
@@ -82,7 +82,7 @@ git clone https://github.com/denis989/ipmr-toolkit.git
 cd ipmr-toolkit
 python3 -m venv .venv
 source .venv/bin/activate
-pip install mkdocs mkdocs-material mkdocs-mermaid2-plugin pymdown-extensions
+pip install -r requirements.txt
 mkdocs serve
 ```
 
@@ -90,9 +90,7 @@ The site renders at `http://127.0.0.1:8000/ipmr-toolkit/`.
 
 ## Status
 
-The toolkit is in active review following the close of the
-content-drafting phase on 11 May 2026. Substantive editorial review
-is ongoing with the project content lead; minor corrections, broken
+The toolkit is in review with the project team. Corrections, broken
 links, and tool-availability updates are tracked through the issue
 tracker on this repository.
 
@@ -102,10 +100,9 @@ A deliverable of the **IPMR project (Enhancing Indo-Pacific Media
 Resilience)**, implemented by [Internews Europe](https://internews.eu)
 with financial support from the European Union.
 
-Toolkit produced by **Denis Yagodin** under contract with Internews
-Europe (contract reference TH23EED-172, period 25 March – 31 May 2026).
-Content lead: **Vino Lucero**, Senior Project Officer-Asia —
-`jlucero@internews.org`.
+Toolkit produced by **Denis Yagodin** for Internews Europe. For
+questions or corrections, open an issue on this repository or contact
+Internews Europe.
 
 *This publication was produced with the financial support of the
 European Union. Its contents are the sole responsibility of Internews
@@ -126,5 +123,5 @@ Toolkit content released under the
 Attribute as:
 
 > "Triaging and Countering AI-Powered Disinformation and Influence
-> Operations" — an IPMR practitioner toolkit, Internews Europe, 2026.
+> Operations", an IPMR practitioner toolkit, Internews Europe, 2026.
 > CC BY 4.0.

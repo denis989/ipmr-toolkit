@@ -21,6 +21,8 @@ tags: [metadata, browser-wasm, local-processing, source-protection]
 
 # MetaDataKit
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Publisher:** [metadatakit.com](https://metadatakit.com) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

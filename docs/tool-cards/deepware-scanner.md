@@ -21,6 +21,8 @@ tags: [video, deepfake, detector]
 
 # Deepware Scanner
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [deepware.ai](https://deepware.ai) | **Type:** Detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

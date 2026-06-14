@@ -21,6 +21,8 @@ tags: [tipline, malaysia, government-run, multilingual, tamil, malay, mandarin, 
 
 # Sebenarnya.my (with AIFA chatbot)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Operator:** [sebenarnya.my](https://sebenarnya.my) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -49,7 +51,7 @@ state-operated multilingual fact-check products globally that
 covers Tamil at all.
 
 The platform's reach is the operational fact that puts it in the
-shortlist. Inventory records 70 million-plus views since the 2024
+shortlist. The platform recorded 70 million-plus views since the 2024
 AIFA launch, which is the largest documented public-facing
 fact-check audience in any of the six focus countries. For a
 fact-checker working on Malaysian content, AIFA outputs are part
@@ -178,7 +180,7 @@ publication.
  channel. Indonesian content runs through Kalimasada
  and Meedan Check.
 - **Laos:** not applicable. AIFA does not cover Lao;
- the 2B.1 Lao tipline gap (G-041) is structural across all
+ the 2B.1 Lao tipline gap is structural across all
  entries in this cell.
 - **Malaysia:** primary deployment. Documented through
  the AI untuk Rakyat April 2024 launch; the March 2026

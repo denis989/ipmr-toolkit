@@ -21,6 +21,8 @@ tags: [youtube, reverse-image, source-history, amnesty, citizen-evidence-lab, ar
 
 # Citizen Evidence Lab YouTube Data Viewer
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Publisher:** [citizenevidence.org](https://citizenevidence.org) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

@@ -22,6 +22,8 @@ tags: [provenance, c2pa, watermark, verifier, manifest]
 
 # Content Credentials Verify
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Publisher:** [contentcredentials.org/verify](https://contentcredentials.org/verify) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -192,7 +194,7 @@ primary entry at T4.2 (manifest type identification).
 
 !!! note "Override notes"
     - **SEA C2PA-survival pointer (sea-c2pa-survival-pointer):** the
-    tool's regional value is constrained by the GAP G-019 finding
+    tool's regional value is constrained by the finding
     that C2PA survival across SEA hardware (Realme, Vivo, Oppo,
     Xiaomi, Transsion) and SEA platforms (WhatsApp, Facebook,
     TikTok) is not independently documented. The Limitations and

@@ -21,6 +21,8 @@ tags: [translation, neural-mt, lao, sea-language-nlp, productivity, google]
 
 # Google Cloud Translation
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Paid</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [cloud.google.com/translate](https://cloud.google.com/translate) | **Type:** Non-detector | **Cost:** Paid
 
 !!! abstract "TL;DR"
@@ -84,7 +86,7 @@ there is not.
     - Lao is the structural reason the tool is in the shortlist
     (the only Lao path) and also the language pair where
     quality is weakest. Lao remains within the cell-level
-    honest-gap (G-035, G-042); the operational workflow for
+    honest-gap; the operational workflow for
     Lao is to use Google Cloud Translation as the first pass
     and pair it with diaspora-review or partner-mediated
     verification before any publishable claim.

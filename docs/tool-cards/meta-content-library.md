@@ -21,6 +21,8 @@ tags: [meta-platforms, ifcn-gated, journalists-excluded, historical-data, escala
 
 # Meta Content Library
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Vendor:** [developers.facebook.com/docs/content-library](https://developers.facebook.com/docs/content-library) | **Type:** Non-detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

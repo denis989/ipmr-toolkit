@@ -21,6 +21,8 @@ tags: [framework, ttp-catalogue, institutional-annex, fimi, stix2, decision-2, e
 
 # DISARM Framework
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Institutional</span></div>
+
 **Publisher:** [github.com/DISARMFoundation/DISARMframeworks](https://github.com/DISARMFoundation/DISARMframeworks) | **Type:** Framework | **Cost:** Free
 
 !!! abstract "TL;DR"

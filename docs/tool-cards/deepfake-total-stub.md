@@ -21,6 +21,8 @@ tags: [audio, deepfake, dw-audit-leader, stub]
 
 # Deepfake Total
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** Status uncertain as of 2026-05 | **Type:** Detector | **Cost:** Contact vendor
 
 !!! abstract "TL;DR"

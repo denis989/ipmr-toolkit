@@ -21,6 +21,8 @@ tags: [workflow-design-pattern, election-workflow, mafindo, indonesia, satgas-pe
 
 # MAFINDO Satgas Pemilu (2024 Election Task Force)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Operator:** [mafindo.or.id](https://mafindo.or.id) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

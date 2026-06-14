@@ -21,6 +21,8 @@ tags: [archiving, evidence-preservation, wacz, bellingcat, python, docker, sourc
 
 # Auto Archiver (Bellingcat)
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Publisher:** [github.com/bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"
@@ -51,8 +53,7 @@ with monthly maintenance; v1.2.6 shipped 7 April 2026, the
 project carries 44 releases and active contributor activity.
 
 For toolkit work, Auto Archiver is the rapid-archiving WACZ-
-adjacent workflow that the gap analysis
-identified as a high-priority gap. A Pillar 2 fact-check
+adjacent workflow that the toolkit identified as a high-priority gap. A Pillar 2 fact-check
 operation that processes user-submitted links can run those
 links through Auto Archiver on intake; by the time the editorial
 team reaches a verdict, the source content has been preserved
@@ -262,9 +263,8 @@ content the platform later removed.
 
 !!! note "Override notes"
     - **Rapid archiving WACZ workflow (rapid-archiving-WACZ-
-    workflow-G-030-pointer):** the tool implements the
-    rapid-archiving WACZ-adjacent workflow named in the
-    gap analysis as G-030. Operators preserve
+    workflow-pointer):** the tool implements the
+    rapid-archiving WACZ-adjacent workflow it recommends. Operators preserve
     source content as evidence on intake; the toolkit treats
     archive-on-intake as the recommended pattern for any
     Pillar 2 operation that may need defamation defence,

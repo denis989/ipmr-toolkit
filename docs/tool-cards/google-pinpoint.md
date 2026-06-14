@@ -22,6 +22,8 @@ tags: [document-search, transcription, ocr, entity-extraction, journalist-studio
 
 # Google Pinpoint / Journalist Studio
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Free</span><span class="ipmr-badge ipmr-badge--tier">Multi-tier</span></div>
+
 **Vendor:** [journaliststudio.google.com](https://journaliststudio.google.com/pinpoint/about) | **Type:** Non-detector | **Cost:** Free
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [geolocation, ai-geolocation, image, osint, faktisk, source-history]
 
 # GeoSpy
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Freemium</span><span class="ipmr-badge ipmr-badge--tier">First-line</span></div>
+
 **Vendor:** [geospy.ai](https://geospy.ai) | **Type:** Non-detector | **Cost:** Freemium
 
 !!! abstract "TL;DR"

@@ -21,6 +21,8 @@ tags: [audio, voice-clone, invid-integrated, dw-audit-4-of-10]
 
 # Hiya / Loccus
 
+<div class="ipmr-badges"><span class="ipmr-badge ipmr-badge--cost">Paid</span><span class="ipmr-badge ipmr-badge--tier">Professional</span></div>
+
 **Vendor:** [hiya.com](https://hiya.com) | **Type:** Detector | **Cost:** Paid
 
 !!! abstract "TL;DR"
@@ -167,7 +169,7 @@ operationally critical concern.
 
 Platform applicability: works on any audio file regardless of source
 platform; WhatsApp and LINE codec compression carry
-the additional honest-gap caveat (G-017); the DW audit did not
+the additional honest-gap caveat; the DW audit did not
 test platform-codec-compressed audio specifically.
 
 ## How to access
